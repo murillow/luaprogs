@@ -1,3 +1,5 @@
+#!/usr/bin/env lua
+
 -- a line, word, character and bytes counter
 
 local function countchars(word)
